@@ -1,4 +1,5 @@
-# knn_and_naive_bayes_from_scratch
+## Description:
+Building the knn (k-nearest neighbors) and naive bayes algorithms from scratch 
 
 to contact me: ridouaniayoub@gmail.com
 
